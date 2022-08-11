@@ -14,7 +14,7 @@ days:
       "**Quiz 9**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/400123/assignments/2156058) (Due Aug. 10th, 12:00 PM)":
   - date: 2022-08-10
     events:
-      "**Lecture 26**{: .label .label-lec} Review": 
+      "**Lecture 26**{: .label .label-lec} [Review](https://ph142-ucb.github.io/su22/src/wrap_up_su22.pdf)": 
         "Ch. 21 & 22"
   - date: 2022-08-11
     events:
