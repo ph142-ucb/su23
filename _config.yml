@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: PH 142
-description: Website for PH 142 Summer 2022
-author: Iris Yen
-email: irisyen@berkeley.edu
-baseurl: '/su22' # the subpath of your site, e.g. /blog
+description: Website for PH 142 Summer 2023
+author: Paula Marquez
+email: paulamarquez@berkeley.edu
+baseurl: '/su23' # the subpath of your site, e.g. /blog
 url: 'https://ph142-ucb.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md", "schedule.md", "textbook.md"]
 

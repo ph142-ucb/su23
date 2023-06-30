@@ -8,7 +8,7 @@ description: >-
 
 # Introduction to Probability and Statistics in Biology and Public Health
 {: .mb-2 }
-PH 142, Summer 2022
+PH 142, Summer 2023
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}

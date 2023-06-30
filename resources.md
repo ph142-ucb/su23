@@ -12,6 +12,7 @@ description: Resources for students
 - [RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
 - [Lab Notes & Quick Checks](https://docs.google.com/document/d/1mzU-mUZRzfSP5I1XY0tTvm5EfVqJfd9EBZgEpLFlIzo/edit#heading=h.4im559r5sk9y)
 - [Distribution Visualization App](https://geneho.shinyapps.io/oomphstat-v2/_w_ff2f84d7/_w_c7a34e2e/)
+- [Textbook](https://ucbears.lib.berkeley.edu/991046977259706532_C119772844/view)
 
 <hr>
 
