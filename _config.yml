@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: PH 142
-description: Website for PH 142 Summer 2022
-author: Iris Yen
-email: irisyen@berkeley.edu
-baseurl: '/su22' # the subpath of your site, e.g. /blog
+description: Website for PH 142 Summer 2023
+author: Paula Marquez
+email: paulamarquez@berkeley.edu
+baseurl: '/su23' # the subpath of your site, e.g. /blog
 url: 'https://ph142-ucb.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md", "schedule.md", "textbook.md"]
 
@@ -31,7 +31,7 @@ nav_links:
   Gradescope:
     - 'https://www.gradescope.com/courses/400123'
   Piazza:
-    - 'https://piazza.com/class/l3t2e4yswjw520'
+    - 'https://edstem.org/us/courses/41332/discussion/3231482'
   Datahub:
     - 'https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su22&urlpath=rstudio%2F&branch=main'
   Calculate Your Grade:

@@ -10,7 +10,6 @@ days:
     events:
       "**Lecture 11**{: .label .label-lec} [The Normal Distribution]()": 
         "Ch. 10"
-      "**Quiz 4**{: .label .label-quiz} [on Gradescope]() (Due Jul. 21st, 12:00 PM PST)":
   - date: 2023-07-18
     events:
       "**Lecture 12**{: .label .label-lec} [The Binomial Distribution]()":

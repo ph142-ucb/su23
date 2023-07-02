@@ -1,11 +1,9 @@
 ---
-name: Alma Juarez (she/her/ella)
+name: Alma Juárez (she/her/hers)
 role: Teaching Assistant
 email: 
 website: 
-photo: https://ph142-ucb.github.io/su22/img/alma.png
+photo: https://ph142-ucb.github.io/su23/img/alma.jpg
 ---
 
-Hi guys! I am a DrPH candidate. My research is on gender-based violence in Mexico, from the alterations in subclinical markers to femicides in Mexico. My background is in Economics and Public Policy at the University of Chicago. I have experience as a GSI in this course, as well as a tutor. I loves my dog Rocky and BTS, my bias is Taehyung. I am looking forward to supporting your learning in either Spanish or English!
-
-Also fluent in: Spanish
+Alma Juárez is a fourth-year DrPH candidate. Her research interests include using Causal Inference to analyze the impact of sexual violence on femicides in Mexico. She majored in Economics and Political Science in Mexico and has a MPP from the University of Chicago. Before coming to UC Berkeley, she worked as an advisor to the Health Minister in Mexico and as a researcher at the National Institute of Public Health. In her free time, Alma loves watching horror movies, listening to BTS and taking care of her dog, Rocky. She speaks Spanish, English and is learning Korean.
