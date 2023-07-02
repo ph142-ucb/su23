@@ -19,7 +19,7 @@ PH 142, Summer 2023
 </div>
 
 {% if site.announcements %}
-We will not be updating this page with announcements. For the latest announcements, make sure to check our [Piazza]().
+We will not be updating this page with announcements. For the latest announcements, make sure to check our [ed](https://edstem.org/us/courses/41332/discussion/3231482).
 {% endif %}
 
 ## Important Information
