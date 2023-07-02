@@ -8,7 +8,7 @@ description: >-
 
 # Introduction to Probability and Statistics in Biology and Public Health
 {: .mb-2 }
-PH 142, Summer 2023
+PH 142, Summer 2022
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
@@ -19,19 +19,16 @@ PH 142, Summer 2023
 </div>
 
 {% if site.announcements %}
-We will not be updating this page with announcements. For the latest announcements, make sure to check our [Ed](https://edstem.org/us/login?redirect=%2Fus%2Fcourses%2F41332%2Fdiscussion%2F3231482&auth=1).
+We will not be updating this page with announcements. For the latest announcements, make sure to check our [Piazza]().
 {% endif %}
 
 ## Important Information
 
 - **Lectures**: Monday - Friday, 9:30 to 11 AM PST
-- **Location**: Internet/Online
+- **Location**: Dwinelle 145
 - **Content**: Please refer to the [course schedule]({{ site.baseurl }}/course-schedule)
-- **Course number**: 15009
+- **Course number**: 14716
 - **Email for non-content inquiries**: [142gsi@berkeley.edu](mailto:142gsi@berkeley.edu)
-
-<!-- TBD add zoom link -->
-
 
 ## Goals
 

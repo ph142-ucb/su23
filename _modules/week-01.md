@@ -23,6 +23,5 @@ days:
     events:
       "**Lecture 4**{: .label .label-lec} [Introduction to Regression](https://ph142-ucb.github.io/su23/src/l04-intro-to-regression.pdf)":
         "Ch. 5 & 6"
-      
  
 ---
