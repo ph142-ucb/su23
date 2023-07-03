@@ -12,16 +12,17 @@ days:
       
   - date: 2023-07-05
     events:
-      "**Lecture 2**{: .label .label-lec} Visualization and Numerically Summarizing Spread and Central Tendency": 
+      "**Lecture 2**{: .label .label-lec} [Visualization and Numerically Summarizing Spread and Central Tendency](https://ph142-ucb.github.io/su22/src/L02-vis-sum.pdf)": 
         "Ch. 3"
   - date: 2023-07-06
     events:
-      "**Lecture 3**{: .label .label-lec} Exploring Relationships Between Two Variables":
+      "**Lecture 3**{: .label .label-lec} [Exploring Relationships Between Two Variables](https://ph142-ucb.github.io/su22/src/l03-relationships-between-two-variables.pdf)":
         "Ch. 4"
       
   - date: 2023-07-07
     events:
-      "**Lecture 4**{: .label .label-lec} Introduction to Regression":
+      "**Lecture 4**{: .label .label-lec} [Introduction to Regression](https://ph142-ucb.github.io/su22/src/l04-intro-to-regression.pdf)":
         "Ch. 5 & 6"
+      "**Participation**{: .label .label-parti} Meet with GSI":
  
 ---
