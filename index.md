@@ -25,7 +25,7 @@ We will not be updating this page with announcements. For the latest announcemen
 ## Important Information
 
 - **Lectures**: Monday - Friday, 9:30 to 11 AM PST
-- **Location**: Internet/Online [Zoom Link](https://berkeley.zoom.us/j/93906453367)
+- **Location**: Internet/Online [Zoom Link](https://berkeley.zoom.us/j/93906453367?pwd=TGoraW1zb3NhNHlzVTI5S3FXMWI0Zz09)
 - **Content**: Please refer to the [course schedule]({{ site.baseurl }}/course-schedule)
 - **Course number**: 15009
 - **Email for non-content inquiries**: [142gsi@berkeley.edu](mailto:142gsi@berkeley.edu)
