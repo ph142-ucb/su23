@@ -4,7 +4,7 @@ days:
   - date: 2023-07-03
     events:
       "**Lecture 1**{: .label .label-lec} [Intro to PH142, the Cloud, and PPDAC; Beginning to work with data](https://ph142-ucb.github.io/su23/src/l01-intro.pdf)":
-        "Ch. 1 & 2":
+        "Ch. 1 & 2"
       "**Lab 1**{: .label .label-lab} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su23&urlpath=rstudio%2F&branch=main) (Due July 7)":
   - date: 2023-07-04
     events:
