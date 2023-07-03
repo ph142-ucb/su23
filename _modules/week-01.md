@@ -3,7 +3,7 @@ title: Week 1
 days:
   - date: 2023-07-03
     events:
-      "**Lecture 1**{: .label .label-lec} [Intro to PH142, the Cloud, and PPDAC; Beginning to work with data](https://ph142-ucb.github.io/su23/src/l01-intro.pdf)":
+      "**Lecture 1**{: .label .label-lec} [Intro to PH142, the Cloud, and PPDAC; Beginning to work with data(syncrhonous)](https://ph142-ucb.github.io/su23/src/l01-intro.pdf)[recording](https://bcourses.berkeley.edu/courses/1525581/pages/lecture-1-recording)":
         "Ch. 1 & 2"
       "**Lab 1**{: .label .label-lab} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su23&urlpath=rstudio%2F&branch=main) (Due July 7)":
   - date: 2023-07-04
@@ -21,7 +21,7 @@ days:
       
   - date: 2023-07-07
     events:
-      "**Lecture 4**{: .label .label-lec} [Introduction to Regression](https://ph142-ucb.github.io/su22/src/l04-intro-to-regression.pdf)":
+      "**Lecture 4**{: .label .label-lec} [Introduction to Regression (syncrhonous)](https://ph142-ucb.github.io/su22/src/l04-intro-to-regression.pdf)":
         "Ch. 5 & 6"
       "**Participation**{: .label .label-parti} Meet with GSI":
  
