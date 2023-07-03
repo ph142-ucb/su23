@@ -28,9 +28,9 @@ We will not be updating this page with announcements. For the latest announcemen
 - **Location**: Internet/Online 
 - [Lecture Zoom Link](https://berkeley.zoom.us/j/93906453367?pwd=TGoraW1zb3NhNHlzVTI5S3FXMWI0Zz09)
 - **Lab Section Zoom Links:**
- [Section 101/102](https://berkeley.zoom.us/j/93433903653?pwd=eUtaNmlwZWptS0ZIeFM2OCtKSk1hdz09) 
- [Section 103/104](https://berkeley.zoom.us/j/93882606750?pwd=MkJzMmVhcmxGazFNcFNDbFh6WGowUT09)
- [Section 105/106](https://berkeley.zoom.us/j/92377898705?pwd=ZzhINURKWnVYNnp3SnR5ZTErWUZsQT09)
+- [Section 101/102](https://berkeley.zoom.us/j/93433903653?pwd=eUtaNmlwZWptS0ZIeFM2OCtKSk1hdz09) 
+- [Section 103/104](https://berkeley.zoom.us/j/93882606750?pwd=MkJzMmVhcmxGazFNcFNDbFh6WGowUT09)
+- [Section 105/106](https://berkeley.zoom.us/j/92377898705?pwd=ZzhINURKWnVYNnp3SnR5ZTErWUZsQT09)
 - **Content**: Please refer to the [course schedule]({{ site.baseurl }}/course-schedule)
 - **Course number**: 15009
 - **Email for non-content inquiries**: [142gsi@berkeley.edu](mailto:142gsi@berkeley.edu)
