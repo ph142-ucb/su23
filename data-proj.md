@@ -6,19 +6,18 @@ description: PDF Links and Assignment Information for the Data Skills Demonstrat
 ---
 
 # Data Skills Demonstration Project
-
+<!--
 ### PDF Links 
 
-[Data Skills Demonstration Project Part I]()  
+[Data Skills Demonstration Project Part I] 
 
-[Data Skills Demonstration Project Part II]()  
+[Data Skills Demonstration Project Part II]  
 
-[Data Skills Demonstration Project Part III]()  
+[Data Skills Demonstration Project Part III] 
 
-<hr>
 
 **Due dates:** 
-<!--
+
 - **Part I is due on July 18th at 10pm PST**
 - **Part II is due on August 1st at 10pm PST**
 - **Part III is due on August 15th at 12pm noon PST**
@@ -65,6 +64,6 @@ Because we are asking you to provide some visualizations and use the same datase
 <!--
 ## Data Skills Demonstration Project Part III
 
-<iframe src="https://ph142-ucb.github.io/su22/src/dp/part3-instructions_su22.pdf" width="100%" height="800"></iframe>
+<iframe src="https://ph142-ucb.github.io/su23/src/dp/part3-instructions_su22.pdf" width="100%" height="800"></iframe>
 
 -->
