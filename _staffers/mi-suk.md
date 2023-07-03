@@ -3,7 +3,7 @@ name: Mi-Suk Kang Dufour (she/her/hers)
 role: Instructor
 email: mi-suk@berkeley.edu
 website: https://publichealth.berkeley.edu/people/mi-suk-kang-dufour/
-photo: https://ph142-ucb.github.io/su22/img/mi-suk.jpeg
+photo: https://ph142-ucb.github.io/su23/img/mi-suk.jpeg
 ---
 
 **Office Hours:** By appointment only. 
