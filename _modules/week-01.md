@@ -14,7 +14,7 @@ days:
       
   - date: 2023-07-05
     events:
-      "**Lecture 2**{: .label .label-lec} [Visualization and Numerically Summarizing Spread and Central Tendency](https://ph142-ucb.github.io/su23/src/L02-vis-sum.pdf)": 
+      "**Lecture 2**{: .label .label-lec} [Visualization and Numerically Summarizing Spread and Central Tendency](https://ph142-ucb.github.io/su23/src/L02-vis-sum.pdf)[{videos}](https://bcourses.berkeley.edu/courses/1525581/pages/lecture-2)": 
         "Ch. 3"
   - date: 2023-07-06
     events:
