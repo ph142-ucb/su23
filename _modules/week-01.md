@@ -3,7 +3,7 @@ title: Week 1
 days:
   - date: 2023-07-03
     events:
-      "**Lecture 1**{: .label .label-lec} [Intro to PH142, the Cloud, and PPDAC; Beginning to work with data(synchronous)](https://ph142-ucb.github.io/su23/src/l01-intro.pdf)[recording](https://bcourses.berkeley.edu/courses/1525581/pages/lecture-1-recording)":
+      "**Lecture 1**{: .label .label-lec} [Intro to PH142, the Cloud, and PPDAC; Beginning to work with data(synchronous)](https://ph142-ucb.github.io/su23/src/l01-intro.pdf) [recording](https://bcourses.berkeley.edu/courses/1525581/pages/lecture-1-recording)":
         "Ch. 1 & 2"
       "**Lab 1**{: .label .label-lab} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su23&urlpath=rstudio%2F&branch=main) (Due July 7)":
       "**Homework 1**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su23&urlpath=rstudio%2F&branch=main)":
@@ -14,7 +14,7 @@ days:
       
   - date: 2023-07-05
     events:
-      "**Lecture 2**{: .label .label-lec} [Visualization and Numerically Summarizing Spread and Central Tendency](https://ph142-ucb.github.io/su23/src/L02-vis-sum.pdf)[{videos}](https://bcourses.berkeley.edu/courses/1525581/pages/lecture-2)": 
+      "**Lecture 2**{: .label .label-lec} [Visualization and Numerically Summarizing Spread and Central Tendency](https://ph142-ucb.github.io/su23/src/L02-vis-sum.pdf) [{videos}](https://bcourses.berkeley.edu/courses/1525581/pages/lecture-2)": 
         "Ch. 3"
   - date: 2023-07-06
     events:
