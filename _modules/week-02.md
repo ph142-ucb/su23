@@ -4,7 +4,7 @@ days:
   - date: 2023-07-10
     events:
       "**Lecture 5**{: .label .label-lec} Two-way Tables: Relationships Between Two Categorical Variables":
-      "**Participation**{: .label .label-parti} [Test Exam](https://ph142-ucb.github.io/su23/src/LASTNAME_FIRSTNAME_EXAMTEST_2023.pdf) Submission Due Wednesday, July 12th, 10:00 PM PST on [Gradescope](https://www.gradescope.com/courses/546137/) ":
+      "**Participation**{: .label .label-parti} [Test Exam submission](https://ph142-ucb.github.io/su23/src/LASTNAME_FIRSTNAME_EXAMTEST_2023.pdf) (Due Jul 12th, 10:00 PM PST) on [Gradescope](https://www.gradescope.com/courses/546137/) ":
       
   - date: 2023-07-11
     events:
