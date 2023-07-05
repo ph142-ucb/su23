@@ -4,6 +4,7 @@ days:
   - date: 2023-07-10
     events:
       "**Lecture 5**{: .label .label-lec} Two-way Tables: Relationships Between Two Categorical Variables":
+      "**Participation**{: .label .label-parti} [Test Exam Submission](https://ph142-ucb.github.io/su23/src/LASTNAME_FIRSTNAME_EXAMTEST_2023.pdf)":
       
   - date: 2023-07-11
     events:
