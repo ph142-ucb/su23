@@ -18,7 +18,7 @@ days:
         "Ch. 3"
   - date: 2023-07-06
     events:
-      "**Lecture 3**{: .label .label-lec} [Exploring Relationships Between Two Variables](https://ph142-ucb.github.io/su23/src/l03-relationships-between-two-variables.pdf)":
+      "**Lecture 3**{: .label .label-lec} [Exploring Relationships Between Two Variables](https://ph142-ucb.github.io/su23/src/l03-relationships-between-two-variables.pdf) [{recording}](https://bcourses.berkeley.edu/courses/1525581/pages/lecture-3)":
         "Ch. 4"
       
   - date: 2023-07-07
