@@ -16,11 +16,12 @@ days:
     events:
       "**Lecture 2**{: .label .label-lec} [Visualization and Numerically Summarizing Spread and Central Tendency](https://ph142-ucb.github.io/su23/src/L02-vis-sum.pdf) [{videos}](https://bcourses.berkeley.edu/courses/1525581/pages/lecture-2)": 
         "Ch. 3"
+      "**Quiz 2**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/546137) (Due Jul. 7th, 10:00 PM PST)":
   - date: 2023-07-06
     events:
       "**Lecture 3**{: .label .label-lec} [Exploring Relationships Between Two Variables](https://ph142-ucb.github.io/su23/src/l03-relationships-between-two-variables.pdf) [{recording}](https://bcourses.berkeley.edu/courses/1525581/pages/lecture-3)":
         "Ch. 4"
-      
+      "**Quiz 3**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/546137) (Due Jul. 8th, 10:00 PM PST)":
   - date: 2023-07-07
     events:
       "**Lecture 4**{: .label .label-lec} [Introduction to Regression (synchronous)](https://ph142-ucb.github.io/su23/src/l04-intro-to-regression.pdf)":
