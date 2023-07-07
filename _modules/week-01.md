@@ -26,6 +26,7 @@ days:
     events:
       "**Lecture 4**{: .label .label-lec} [Introduction to Regression (synchronous)](https://ph142-ucb.github.io/su23/src/l04-intro-to-regression.pdf) [{recording}](https://bcourses.berkeley.edu/courses/1525581/pages/lecture-4)":
         "Ch. 5 & 6"
+      "**Lab 2**{: .label .label-lab} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su23&urlpath=rstudio%2F&branch=main) (Due Jul. 10)":
       "**Participation**{: .label .label-parti} Meet with GSI before turning in part I":
  
 ---
