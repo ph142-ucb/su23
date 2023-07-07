@@ -24,8 +24,8 @@ days:
       "**Quiz 3**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/546137) (Due Jul. 8th, 10:00 PM PST)":
   - date: 2023-07-07
     events:
-      "**Lecture 4**{: .label .label-lec} [Introduction to Regression (synchronous)](https://ph142-ucb.github.io/su23/src/l04-intro-to-regression.pdf)":
+      "**Lecture 4**{: .label .label-lec} [Introduction to Regression (synchronous)](https://ph142-ucb.github.io/su23/src/l04-intro-to-regression.pdf) [{recording}](https://bcourses.berkeley.edu/courses/1525581/pages/lecture-4)":
         "Ch. 5 & 6"
-      "**Participation**{: .label .label-parti} Meet with GSI":
+      "**Participation**{: .label .label-parti} Meet with GSI before turning in part I":
  
 ---
