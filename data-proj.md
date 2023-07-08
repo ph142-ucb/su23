@@ -6,22 +6,22 @@ description: PDF Links and Assignment Information for the Data Skills Demonstrat
 ---
 
 # Data Skills Demonstration Project
-<!--
+
 ### PDF Links 
 
 [Data Skills Demonstration Project Part I](https://ph142-ucb.github.io/su23/src/part1-instructions_su23) (Due Mon. Jul 17th) 
-
+<!--
 [Data Skills Demonstration Project Part II]  
 
 [Data Skills Demonstration Project Part III] 
 
-
+-->
 **Due dates:** 
 
-- **Part I is due on July 18th at 10pm PST**
-- **Part II is due on August 1st at 10pm PST**
-- **Part III is due on August 15th at 12pm noon PST**
--->
+- **Part I is due on July 17th at 10pm PST**
+- **Part II is due on July 31st at 10pm PST**
+- **Part III is due on August 14th at 12pm noon PST**
+
 **Make sure to provide enough time for Gradescope submission to be uploaded if you include large visualizations.**
 
 * Late penalty: 50% late penalty if submitted within 24 hours of due date, no marks for assignments submitted thereafter.
