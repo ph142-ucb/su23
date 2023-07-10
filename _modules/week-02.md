@@ -8,13 +8,13 @@ days:
       
   - date: 2023-07-11
     events:
-      "**Lecture 6**{: .label .label-lec} Samples and Observational Studies": 
+      "**Lecture 6**{: .label .label-lec} [Samples and Observational Studies](https://ph142-ucb.github.io/su23/src/l06-samples.pdf)": 
         "Ch. 7"
-      "**Lecture 7**{: .label .label-lec} Study designs":   
+      "**Lecture 7**{: .label .label-lec} [Study designs](https://ph142-ucb.github.io/su23/src/l07-study-designs.pdf)":   
       
   - date: 2023-07-12
     events:
-      "**Lecture 8**{: .label .label-lec} Part I Summary":
+      "**Lecture 8**{: .label .label-lec} Part I Summary - synchronous":
         "Ch. 8"
   - date: 2023-07-13
     events:
