@@ -16,7 +16,7 @@ days:
       
   - date: 2023-07-12
     events:
-      "**Lecture 8**{: .label .label-lec} Part I Summary - synchronous":
+      "**Lecture 8**{: .label .label-lec} [Part I Summary - synchronous](midterm-review.pdf)[{recording}](https://bcourses.berkeley.edu/courses/1525581/pages/midterm-1-live-review-session)":
         "Ch. 8"
   - date: 2023-07-13
     events:
