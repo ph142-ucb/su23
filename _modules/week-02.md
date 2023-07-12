@@ -10,7 +10,9 @@ days:
     events:
       "**Lecture 6**{: .label .label-lec} [Samples and Observational Studies](https://ph142-ucb.github.io/su23/src/l06-samples.pdf)[{video}](https://bcourses.berkeley.edu/courses/1525581/pages/lecture-6)": 
         "Ch. 7"
-      "**Lecture 7**{: .label .label-lec} [Study designs](https://ph142-ucb.github.io/su23/src/l07-study-designs.pdf)[{video}](https://bcourses.berkeley.edu/courses/1525581/pages/lecture-7)":   
+
+      "**Lecture 7**{: .label .label-lec} [Study designs](https://ph142-ucb.github.io/su23/src/l07-study-designs.pdf)[{video}](https://bcourses.berkeley.edu/courses/1525581/pages/lecture-7)":
+      "**Homework 3**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su23&urlpath=rstudio%2F&branch=main)":
       
   - date: 2023-07-12
     events:
