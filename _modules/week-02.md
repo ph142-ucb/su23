@@ -12,7 +12,7 @@ days:
         "Ch. 7"
 
       "**Lecture 7**{: .label .label-lec} [Study designs](https://ph142-ucb.github.io/su23/src/l07-study-designs.pdf)[{video}](https://bcourses.berkeley.edu/courses/1525581/pages/lecture-7)":
-      "**Homework 3**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su23&urlpath=rstudio%2F&branch=main)":
+      "**Homework 3**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su23&urlpath=rstudio%2F&branch=main) [{Solutions}](https://ph142-ucb.github.io/su23/src/hw03sol.pdf)":
       
   - date: 2023-07-12
     events:
