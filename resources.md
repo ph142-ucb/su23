@@ -16,7 +16,7 @@ description: Resources for students
 | Review Slides                                     |
 |---------------------------------------------------|
 | [Week 1](https://ph142-ucb.github.io/su23/src/week1_review.pdf)  |
-| [Week 2](https://ph142-ucb.github.io/su23/src/week2_review.pdf)  |
+<!--| [Week 2](https://ph142-ucb.github.io/su23/src/week2_review.pdf)  | -->
 
 <hr>
 
