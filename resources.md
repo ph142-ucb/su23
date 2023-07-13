@@ -13,6 +13,11 @@ description: Resources for students
 - [Lab Notes & Quick Checks](https://docs.google.com/document/d/1mzU-mUZRzfSP5I1XY0tTvm5EfVqJfd9EBZgEpLFlIzo/edit#heading=h.4im559r5sk9y)
 - [Distribution Visualization App](https://geneho.shinyapps.io/oomphstat-v2/_w_ff2f84d7/_w_c7a34e2e/)
 
+| Review Slides                                     |
+|---------------------------------------------------|
+| [Week 1](https://ph142-ucb.github.io/su23/src/week1_review.pdf)  |
+| [Week 2](https://ph142-ucb.github.io/su23/src/week2_review.pdf)  |
+
 <hr>
 
 ### Resource Videos
