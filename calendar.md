@@ -9,7 +9,7 @@ description: An embedded Google Calendar displaying the weekly event schedule.
 
 ## Lecture, Lab, Office Hours
 
-Lectures are in blue, labs and homework parties are in gold (go bears!); office hours and review sessions are in green. Click an event for the Zoom link. Professor office hours are by [appointment](https://mi-suk.youcanbook.me/).
+Synchronous lectures are listed below on M,W,F. Sections are labeled each day with their topic, whether that's a lab, homework party, office hours, or a review session. Click an event for the Zoom link. Professor office hours are by [appointment](https://mi-suk.youcanbook.me/). A more detailed schedule of topics can be found at the [course schedule page](https://ph142-ucb.github.io/su23/course-schedule/)
 
 
 
