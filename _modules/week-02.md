@@ -20,7 +20,7 @@ days:
         "Ch. 8"
   - date: 2023-07-13
     events:
-      "**Lecture 9**{: .label .label-lec} [Probability Part I](https://ph142-ucb.github.io/su23/src/l09-intro-to-probability.pdf)":
+      "**Lecture 9**{: .label .label-lec} [Probability Part I](https://ph142-ucb.github.io/su23/src/l09-intro-to-probability.pdf)[{videos}](https://bcourses.berkeley.edu/courses/1525581/pages/lecture-09)":
       
   - date: 2023-07-14
     events:
