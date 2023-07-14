@@ -5,6 +5,7 @@ days:
     events:
       "**Lecture 5**{: .label .label-lec} [Two-way Tables: Relationships Between Two Categorical Variables](https://ph142-ucb.github.io/su23/src/l05-two-categorical-vars.pdf) [{recording}](https://bcourses.berkeley.edu/courses/1525581/pages/lecture-5)":
       "**Participation**{: .label .label-parti} [Test Exam submission](https://ph142-ucb.github.io/su23/src/LASTNAME_FIRSTNAME_EXAMTEST_2023.pdf) (Due Jul 12th, 10:00 PM PST) on [Gradescope](https://www.gradescope.com/courses/546137/) ":
+      "**Quiz 5**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/546137) (Due Jul. 12th, 10:00 PM PST)":
       
   - date: 2023-07-11
     events:
@@ -13,6 +14,7 @@ days:
 
       "**Lecture 7**{: .label .label-lec} [Study designs](https://ph142-ucb.github.io/su23/src/l07-study-designs.pdf)[{video}](https://bcourses.berkeley.edu/courses/1525581/pages/lecture-7)":
       "**Homework 3**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su23&urlpath=rstudio%2F&branch=main) [{Solutions}](https://ph142-ucb.github.io/su23/src/hw03sol.pdf)":
+      "**Quiz 6**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/546137) (Due Jul. 13th, 10:00 PM PST)":
       
   - date: 2023-07-12
     events:
@@ -21,7 +23,7 @@ days:
   - date: 2023-07-13
     events:
       "**Lecture 9**{: .label .label-lec} [Probability Part I](https://ph142-ucb.github.io/su23/src/l09-intro-to-probability.pdf)[{videos}](https://bcourses.berkeley.edu/courses/1525581/pages/lecture-09)":
-      
+      "**Quiz 7**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/546137) (Due Jul. 17th, 10:00 PM PST)":
   - date: 2023-07-14
     events:
       "**Exam**{: .label .label-exam} Midterm I":

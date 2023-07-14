@@ -30,5 +30,6 @@ days:
       "**Lab 2**{: .label .label-lab} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su23&urlpath=rstudio%2F&branch=main) (Due Jul. 10)":
       "**Homework 2**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su23&urlpath=rstudio%2F&branch=main) [{Solutions}](https://ph142-ucb.github.io/su23/src/hw02sol.pdf)":
       "**Participation**{: .label .label-parti} Meet with GSI before turning in part I":
+      "**Quiz 4**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/546137) (Due Jul. 9th, 10:00 PM PST)":
  
 ---
