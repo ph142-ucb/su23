@@ -15,6 +15,7 @@ days:
     events:
       "**Lecture 12**{: .label .label-lec} The Binomial Distribution":
         "Ch. 10"
+      "**Data Project**{: .label .label-proj} Data Skills Demonstration Part I (Due 10:00 PM PST)":
   - date: 2023-07-20
     events:
       "**Lecture 13**{: .label .label-lec} The Poisson Distribution":
