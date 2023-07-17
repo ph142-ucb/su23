@@ -3,13 +3,13 @@ title: Week 3
 days:
   - date: 2023-07-17
     events:
-      "**Lecture 10**{: .label .label-lec} More Probability":
+      "**Lecture 10**{: .label .label-lec} [More Probability](https://ph142-ucb.github.io/su23/src/l10-more-probability.pdf)":
         "Ch. 9"
       "**Lab 4**{: .label .label-lab} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su23&urlpath=rstudio%2F&branch=main) (Due July 18th)":
       
   - date: 2023-07-18
     events:
-      "**Lecture 11**{: .label .label-lec} The Normal Distribution": 
+      "**Lecture 11**{: .label .label-lec} [The Normal Distribution](https://ph142-ucb.github.io/su23/src/l11-normal-distribution.pdf)": 
         "Ch. 10"
   - date: 2023-07-19
     events:
