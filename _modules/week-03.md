@@ -9,7 +9,7 @@ days:
       
   - date: 2023-07-18
     events:
-      "**Lecture 11**{: .label .label-lec} [The Normal Distribution](https://ph142-ucb.github.io/su23/src/l11-normal-distribution.pdf)": 
+      "**Lecture 11**{: .label .label-lec} [The Normal Distribution](https://ph142-ucb.github.io/su23/src/l11-normal-distribution.pdf)[{videos}](https://bcourses.berkeley.edu/courses/1525581/pages/normal-distribution)": 
         "Ch. 10"
   - date: 2023-07-19
     events:
