@@ -21,11 +21,13 @@ days:
         "Ch. 10"
       "**Data Project**{: .label .label-proj} Data Skills Demonstration Part I (Due 10:00 PM PST)":
       "**Quiz 10**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/546137) (Due Jul. 21st, 10:00 PM PST)":
+      "**Lab 5**{: .label .label-lab} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su23&urlpath=rstudio%2F&branch=main) (Due July 20th)":
 
   - date: 2023-07-20
     events:
       "**Lecture 13**{: .label .label-lec} [The Poisson Distribution](https://ph142-ucb.github.io/su23/src/l13-poisson.pdf)":
         "Ch. 11"
+      "**Homework 5**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su23&urlpath=rstudio%2F&branch=main)":
 
   - date: 2023-07-21
     events:
