@@ -17,14 +17,14 @@ days:
 
   - date: 2023-07-19
     events:
-      "**Lecture 12**{: .label .label-lec} [The Binomial Distribution](https://ph142-ucb.github.io/su23/src/l12-binomial.pdf)":
+      "**Lecture 12**{: .label .label-lec} [The Binomial Distribution](https://ph142-ucb.github.io/su23/src/l12-binomial.pdf)[{recording}](https://bcourses.berkeley.edu/courses/1525581/pages/lecture-12)":
         "Ch. 10"
       "**Data Project**{: .label .label-proj} Data Skills Demonstration Part I (Due 10:00 PM PST)":
       "**Quiz 10**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/546137) (Due Jul. 21st, 10:00 PM PST)":
 
   - date: 2023-07-20
     events:
-      "**Lecture 13**{: .label .label-lec} [The Poisson Distribution](l13-poisson.pdf)":
+      "**Lecture 13**{: .label .label-lec} [The Poisson Distribution](https://ph142-ucb.github.io/su23/src/l13-poisson.pdf)":
         "Ch. 11"
 
   - date: 2023-07-21
