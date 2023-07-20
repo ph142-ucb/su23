@@ -25,12 +25,12 @@ days:
 
   - date: 2023-07-20
     events:
-      "**Lecture 13**{: .label .label-lec} [The Poisson Distribution](https://ph142-ucb.github.io/su23/src/l13-poisson.pdf)":
+      "**Lecture 13**{: .label .label-lec} [The Poisson Distribution](https://ph142-ucb.github.io/su23/src/l13-poisson.pdf)[{video}](https://bcourses.berkeley.edu/courses/1525581/pages/poisson)":
         "Ch. 11"
       "**Homework 5**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su23&urlpath=rstudio%2F&branch=main)":
 
   - date: 2023-07-21
     events:
-      "**Lecture 14**{: .label .label-lec} Sampling and the Central limit theorem":
+      "**Lecture 14**{: .label .label-lec} [Sampling and the Central limit theorem](ph142-ucb.github.io/su23/src/l14-central-limit.pdf)":
         "Ch. 11 & 12"
 ---
