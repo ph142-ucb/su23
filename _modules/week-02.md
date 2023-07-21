@@ -21,6 +21,7 @@ days:
     events:
       "**Lecture 8**{: .label .label-lec} [Part I Summary - synchronous](https://ph142-ucb.github.io/su23/src/midterm-review.pdf)[{recording}](https://bcourses.berkeley.edu/courses/1525581/pages/midterm-1-live-review-session)":
         "Ch. 8"
+      "**Review**{: .label .label-review} [Week 2 Review](https://ph142-ucb.github.io/su23/src/week2_review.pdf)": 
       
   - date: 2023-07-13
     events:

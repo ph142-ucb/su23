@@ -24,7 +24,7 @@ days:
       "**Lecture 3**{: .label .label-lec} [Exploring Relationships Between Two Variables](https://ph142-ucb.github.io/su23/src/l03-relationships-between-two-variables.pdf) [{recording}](https://bcourses.berkeley.edu/courses/1525581/pages/lecture-3)":
         "Ch. 4"
       "**Quiz 3**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/546137) (Due Jul. 8th, 10:00 PM PST)":
-    "**Review**[Review session](https://docs.google.com/presentation/d/1yTWHuyLH6TUh2FCtqCjMCs5gAMxq3U7NGY91uKFp174/edit?usp=drive_link)":
+      "**Review**{: .label .label-review} [Week 1 Review](https://ph142-ucb.github.io/su23/src/week1_review.pdf)":
     
   - date: 2023-07-07
     events:
