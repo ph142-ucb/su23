@@ -109,25 +109,23 @@ ui <- fluidPage(
            HTML("<b>Tests (Midterm 1: 15%, Midterm 2: 15%, Final: 15%)</b><br/>Enter a percentage grade for each test.
                 Guess grades for tests not yet completed to see how it will affect your overall grade. <br><br>")),
     column(2,
-           numericInput("m1", "Midterm 1", value = 50, min = 0, max = 100)),
+           numericInput("m1", "Midterm 1", value = NA, min = 0, max = 100)),
     column(2,
-           numericInput("m2", "Midterm 2", value = 50, min = 0, max = 100)),
+           numericInput("m2", "Midterm 2", value = NA, min = 0, max = 100)),
     column(2,
-           numericInput("final", "Midterm 3", value = 50, min = 0, max = 100))
+           numericInput("final", "Midterm 3", value = NA, min = 0, max = 100))
            ),
   hr(),
   fluidRow(
     column(12,
-           HTML("<b>Miscellaneous</b><br/> Enter an integer for the lecture participation and percentage grades for the data project and extra credit assignments.
+           HTML("<b>Miscellaneous</b><br/> Enter an integer for the participation and percentage grades for the data project and extra credit assignments.
                 <br> For EC 2, please put '100' if full credit was received for one week, '200' if full credit was received for both weeks.<br><br>")),
     column(3,
            numericInput(("lec_missed"), "Participation Opportunities Missed", value = 0, min = 0, max = 40)),
     column(3,
-           numericInput(("group"), "Data Project", value = 50, min = 0, max = 100)),
-    column(3,
-           numericInput(("ec1"), "EC 1: Statistics is Everywhere", value = 0, min = 0, max = 100)),
-	column(3,
-           numericInput(("ec2"), "EC 2: Questions and Solution Guide", value = 0, min = 0, max = 200))
+           numericInput(("group"), "Data Project", value = NA, min = 0, max = 100)),
+	  column(3,
+           numericInput(("ec_opp"), "EC: Questions and Solution Guide", value = 0, min = 0, max = 200))
   ),
   hr(),
   fluidRow(
@@ -204,7 +202,21 @@ server <- function(input, output) {
                      input$q6, 
   	                 input$q7, 
   	                 input$q8, 
-  	                 input$q9)
+  	                 input$q9,
+  	                 input$q10,
+  	                 input$q11, 
+  	                 input$q12, 
+  	                 input$q13, 
+  	                 input$q14, 
+  	                 input$q15,
+  	                 input$q16, 
+  	                 input$q17, 
+  	                 input$q18, 
+  	                 input$q19,
+  	                 input$q20,
+  	                 input$q21,
+  	                 input$q22
+  	                 )
   	
   	if (length(quiz_grades[!is.na(quiz_grades)]) == 1) {
   	  return(sum(quiz_grades, na.rm = T))
@@ -245,8 +257,7 @@ server <- function(input, output) {
       (input$m2 * mt2_weight) + 
       (input$final * final_weight) +
       (input$group * project_weight) + 
-      (input$ec1 * extra_credit_weight) + 
-      (input$ec2 * extra_credit_weight)
+      (input$ec_opp * extra_credit_weight)
 
     return(weight_avg)
   })
