@@ -29,7 +29,6 @@ days:
         "Ch. 11"
       "**Review**{: .label .label-review} [Week 3 Review](https://ph142-ucb.github.io/su23/src/week3_review.pdf)":
 
-
   - date: 2023-07-21
     events:
       "**Lecture 14**{: .label .label-lec} [Sampling and the Central limit theorem](ph142-ucb.github.io/su23/src/l14-central-limit.pdf)[{video}](https://bcourses.berkeley.edu/courses/1525581/pages/lecture-14):
