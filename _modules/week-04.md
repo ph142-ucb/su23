@@ -5,6 +5,7 @@ days:
     events:
       "**Lecture 15**{: .label .label-lec} [Confidence intervals and hypothesis testing](https://ph142-ucb.github.io/su23/src/l15-inference.pdf)":
         "Ch. 12"
+      "**Lab 6**{: .label .label-lab} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su23&urlpath=rstudio%2F&branch=main) (Due July 25th)":
   - date: 2023-07-25
     events:
       "**Lecture 16**{: .label .label-lec} [Power and Sample Size](https://ph142-ucb.github.io/su23/src/l16-power.pdf)[{video}](https://bcourses.berkeley.edu/courses/1525581/pages/power)": 

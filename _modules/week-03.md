@@ -33,5 +33,5 @@ days:
     events:
       "**Lecture 14**{: .label .label-lec} [Sampling and the Central limit theorem](https://ph142-ucb.github.io/su23/src/l14-central-limit.pdf)[{video}](https://bcourses.berkeley.edu/courses/1525581/pages/lecture-14)":
         "Ch. 11 & 12"
-      "**Homework 5**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su23&urlpath=rstudio%2F&branch=main)":
+      "**Homework 5**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su23&urlpath=rstudio%2F&branch=main) [{Solutions}](https://ph142-ucb.github.io/su23/src/hw05sol.pdf)":
 ---
