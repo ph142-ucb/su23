@@ -3,7 +3,7 @@ title: Week 4
 days:
   - date: 2023-07-24
     events:
-      "**Lecture 15**{: .label .label-lec} [Confidence intervals and hypothesis testing](https://ph142-ucb.github.io/su23/src/l15-inference.pdf)":
+      "**Lecture 15**{: .label .label-lec} [Confidence intervals and hypothesis testing](https://ph142-ucb.github.io/su23/src/l15-inference.pdf)[{recording}](https://bcourses.berkeley.edu/courses/1525581/pages/inference)":
         "Ch. 12"
       "**Lab 6**{: .label .label-lab} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su23&urlpath=rstudio%2F&branch=main) (Due July 25th)":
       "**Quiz 13**{: .label .label-quiz}":
