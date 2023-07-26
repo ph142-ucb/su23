@@ -5,7 +5,7 @@ days:
     events:
       "**Lecture 19**{: .label .label-lec} Two-sample and Paired T-Tests":
         "Ch. 15"
-        "**Data Project**{: .label .label-proj} Data Skills Demonstration Part II (Due 10:00 PM PST)":    
+      "**Data Project**{: .label .label-proj} Data Skills Demonstration Part II (Due 10:00 PM PST)":    
   - date: 2023-08-01
     events:
       "**Lecture 20**{: .label .label-lec} ANOVA, Tukey's HSD, Bonferroni Method": 
