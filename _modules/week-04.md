@@ -16,7 +16,7 @@ days:
       "**Participation**{: .label .label-parti} [Mid-Semester Feedback Survey](https://docs.google.com/forms/u/1/d/e/1FAIpQLSdBb2lMkFjwCF6zOcLcvuG2yujeWqoLFCsSuNrMELTuz5HW0w/viewform?usp=send_form) (Due July 25th, 10:00PM)":
   - date: 2023-07-26
     events:
-      "**Lecture 17**{: .label .label-lec} Summary of Part II":
+      "**Lecture 17**{: .label .label-lec} [Summary of Part II](https://bcourses.berkeley.edu/courses/1525581/pages/midterm-2-review)":
         "Ch. 14"
       "**Lab 7**{: .label .label-lab} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su23&urlpath=rstudio%2F&branch=main) (Due July 27th)":
   - date: 2023-07-27
