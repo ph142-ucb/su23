@@ -22,6 +22,7 @@ days:
   - date: 2023-07-27
     events:
       "**Lecture 18**{: .label .label-lec} [Inference About a Population Mean (Z and T)](http://ph142-ucb.github.io/su23/src/l18-ztot.pdf) [{video}](https://bcourses.berkeley.edu/courses/1525581/pages/from-z-to-t)":
+      "**Quiz 15**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/546137) (Due Jul. 29th, 10:00 PM PST)":
   - date: 2023-07-28
     events:
       "**Exam**{: .label .label-exam} **Midterm II**":
