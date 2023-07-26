@@ -26,4 +26,5 @@ days:
     events:
       "**Exam**{: .label .label-exam} **Midterm II**":
       "**Participation**{: .label .label-parti} Data Project GSI Check-in ":
+      
 ---
