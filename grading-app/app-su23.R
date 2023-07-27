@@ -106,7 +106,7 @@ ui <- fluidPage(
   hr(),
   fluidRow(
     column(12,
-           HTML("<b>Tests (Midterm 1: 15%, Midterm 2: 15%, Final: 15%)</b><br/>Enter a percentage grade for each test.
+           HTML("<b>Tests (Midterm 1: 15%, Midterm 2: 15%, Final: 15%)</b><br/>Enter a percentage grade for each test. Add 3 points to midterm(s) 1 and/or 2 if you recovered them through extra credit. 
                 Guess grades for tests not yet completed to see how it will affect your overall grade. <br><br>")),
     column(2,
            numericInput("m1", "Midterm 1", value = NA, min = 0, max = 100)),
@@ -124,8 +124,7 @@ ui <- fluidPage(
            numericInput(("lec_missed"), "Participation Opportunities Missed", value = 0, min = 0, max = 40)),
     column(3,
            numericInput(("group"), "Data Project", value = NA, min = 0, max = 100)),
-	  column(3,
-           numericInput(("ec_opp"), "EC: Questions and Solution Guide", value = 0, min = 0, max = 200))
+	  
   ),
   hr(),
   fluidRow(
@@ -256,8 +255,7 @@ server <- function(input, output) {
       (input$m1 * mt1_weight) + 
       (input$m2 * mt2_weight) + 
       (input$final * final_weight) +
-      (input$group * project_weight) + 
-      (input$ec_opp * extra_credit_weight)
+      (input$group * project_weight) 
 
     return(weight_avg)
   })
