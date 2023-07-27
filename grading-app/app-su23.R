@@ -119,7 +119,7 @@ ui <- fluidPage(
   fluidRow(
     column(12,
            HTML("<b>Miscellaneous</b><br/> Enter an integer for the participation and percentage grades for the data project and extra credit assignments.
-                <br> For EC 2, please put '100' if full credit was received for one week, '200' if full credit was received for both weeks.<br><br>")),
+                <br> For EC, add 3 poins to each midterm score above for which the assignment was completed.<br><br>")),
     column(3,
            numericInput(("lec_missed"), "Participation Opportunities Missed", value = 0, min = 0, max = 40)),
     column(3,
