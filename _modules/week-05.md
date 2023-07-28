@@ -3,12 +3,12 @@ title: Week 5
 days:
   - date: 2022-07-31
     events:
-      "**Lecture 19**{: .label .label-lec} Two-sample and Paired T-Tests":
+      "**Lecture 19**{: .label .label-lec} [Two-sample and Paired T-Tests](https://ph142-ucb.github.io/su23/src/l19-ttests.pdf)":
         "Ch. 15"
       "**Data Project**{: .label .label-proj} Data Skills Demonstration Part II (Due 10:00 PM PST)":    
   - date: 2023-08-01
     events:
-      "**Lecture 20**{: .label .label-lec} ANOVA, Tukey's HSD, Bonferroni Method": 
+      "**Lecture 20**{: .label .label-lec} [ANOVA, Tukey's HSD, Bonferroni Method](https://ph142-ucb.github.io/su23/src/anova.pdf)": 
         "Ch. 17"
   - date: 2023-08-02
     events:
