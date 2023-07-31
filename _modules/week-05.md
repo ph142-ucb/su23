@@ -3,7 +3,7 @@ title: Week 5
 days:
   - date: 2022-07-31
     events:
-      "**Lecture 19**{: .label .label-lec} [Two-sample and Paired T-Tests](https://ph142-ucb.github.io/su23/src/l19-ttests.pdf)[{recording}](https://bcourses.berkeley.edu/courses/1525581/pages)":
+      "**Lecture 19**{: .label .label-lec} [Two-sample and Paired T-Tests](https://ph142-ucb.github.io/su23/src/l19-ttests.pdf)[{recording}](https://bcourses.berkeley.edu/courses/1525581/pages/flavors-of-t)":
         "Ch. 15"
       "**Lab 8**{: .label .label-lab} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su23&urlpath=rstudio%2F&branch=main) (Due Aug 1st)":
       "**Quiz 16**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/546137) (Due Aug 2nd, 10:00 PM PST)":
