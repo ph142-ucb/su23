@@ -19,6 +19,7 @@ description: Resources for students
 | [Week 2](https://ph142-ucb.github.io/su23/src/week2_review.pdf)  | 
 | [Week 3](https://ph142-ucb.github.io/su23/src/week3_review.pdf)  | 
 | [Week 4](https://docs.google.com/presentation/d/19gl9PJB5ZiGJAqignxYL7xWi4ab9ugxlIY66Ec0066Q/edit)  | 
+| [Week 5](https://docs.google.com/presentation/d/1pm8PpzqTFX9hceW4ATzaDSsItQrp2LGCgqTTs0cWopw/edit)  |
 
 <hr>
 
