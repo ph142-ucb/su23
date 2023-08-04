@@ -7,7 +7,7 @@ days:
         "Ch. 19" 
   - date: 2023-08-08
     events:
-      "**Lecture 26**{: .label .label-lec}  Chi-squared test of independence":
+      "**Lecture 26**{: .label .label-lec}  [Chi-squared test of independence](chisquared.pdf)[{videos}](https://bcourses.berkeley.edu/courses/1525581/pages/chi-squared-tests)":
         "Ch. 20"  
   - date: 2023-08-09
     events:
@@ -15,7 +15,7 @@ days:
         "Ch. 21 & 22"
   - date: 2023-08-10
     events:
-      "**Lecture 27**{: .label .label-lec} Bonus: Bootstraps and Permutations":
+      "**Lecture 27**{: .label .label-lec} [Bonus: Bootstraps and Permutations](bootsperms.pdf)[{videos}](https://bcourses.berkeley.edu/courses/1525581/pages/bonus-bootstraps-and-permutations)":
       
   - date: 2023-08-11
     events:
