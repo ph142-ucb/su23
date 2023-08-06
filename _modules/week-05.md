@@ -29,7 +29,7 @@ days:
       
   - date: 2023-08-04
     events:
-      "**Lecture 23**{: .label .label-lec} [Inference for Proportion](https://ph142-ucb.github.io/su23/src/l23-prop.pdf)":
+      "**Lecture 23**{: .label .label-lec} [Inference for Proportion](https://ph142-ucb.github.io/su23/src/l23-prop.pdf)[(recording)](https://bcourses.berkeley.edu/courses/1525581/pages/inference-for-proportions)":
         "Ch. 23"
       "**Lab 10**{: .label .label-lab} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su23&urlpath=rstudio%2F&branch=main) (Due Aug 7th)":
       
