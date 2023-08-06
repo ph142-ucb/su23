@@ -5,6 +5,7 @@ days:
     events: 
       "**Lecture 24**{: .label .label-lec} [Comparing Two Proportions](https://ph142-ucb.github.io/su23/src/2prop.pdf) and [Chi-Squared Goodness of Fit](https://ph142-ucb.github.io/su23/src/l25-goodnessoffit.pdf)":
         "Ch. 19" 
+      "**Homework 7**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su23&urlpath=rstudio%2F&branch=main) [(Solutions)](https://ph142-ucb.github.io/su23/src/hw08sol.pdf)" :
   - date: 2023-08-08
     events:
       "**Lecture 25**{: .label .label-lec}  [Chi-squared test of independence](https://ph142-ucb.github.io/su23/src/chisquared.pdf)[{videos}](https://bcourses.berkeley.edu/courses/1525581/pages/chi-squared-tests)":
