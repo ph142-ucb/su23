@@ -3,7 +3,7 @@ title: Week 6
 days:
   - date: 2023-08-07
     events: 
-      "**Lecture 24**{: .label .label-lec} [Comparing Two Proportions](https://ph142-ucb.github.io/su23/src/2prop.pdf) and [Chi-Squared Goodness of Fit](https://ph142-ucb.github.io/su23/src/l25-goodnessoffit.pdf)":
+      "**Lecture 24**{: .label .label-lec} [Comparing Two Proportions](https://ph142-ucb.github.io/su23/src/2prop.pdf) and [Chi-Squared Goodness of Fit](https://ph142-ucb.github.io/su23/src/l25-goodnessoffit.pdf)[{recording}](https://bcourses.berkeley.edu/courses/1525581/pages/2prop-and-goodness-of-fit)":
         "Ch. 19" 
       "**Homework 7**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-su23&urlpath=rstudio%2F&branch=main) [(Solutions)](https://ph142-ucb.github.io/su23/src/hw08sol.pdf)" :
       "**Quiz 21**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/546137) (Due Aug 9th, 10:00 PM PST)":
