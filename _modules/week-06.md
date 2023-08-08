@@ -17,7 +17,7 @@ days:
     events:
       "**Lecture 26**{: .label .label-lec} Review": 
         "Ch. 21 & 22"
-      "**Review**{: .label .label-review} [Week 5 Review](https://docs.google.com/presentation/d/1DqVqFRWRaquW0Z8c8LD-sg9Jtomyo8Bi)":
+      "**Review**{: .label .label-review} [Week 6 Review](https://docs.google.com/presentation/d/1DqVqFRWRaquW0Z8c8LD-sg9Jtomyo8Bi)":
 
   - date: 2023-08-10
     events:
