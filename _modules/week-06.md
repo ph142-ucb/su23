@@ -17,6 +17,8 @@ days:
     events:
       "**Lecture 26**{: .label .label-lec} Review": 
         "Ch. 21 & 22"
+      "**Review**{: .label .label-review} [Week 5 Review](https://docs.google.com/presentation/d/1DqVqFRWRaquW0Z8c8LD-sg9Jtomyo8Bi)":
+
   - date: 2023-08-10
     events:
       "**Lecture 27**{: .label .label-lec} [Bonus: Bootstraps and Permutations](https://ph142-ucb.github.io/su23/src/bootsperms.pdf)[{videos}](https://bcourses.berkeley.edu/courses/1525581/pages/bonus-bootstraps-and-permutations)":
