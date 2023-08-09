@@ -15,7 +15,7 @@ days:
       "**Quiz 22**{: .label .label-quiz} [on Gradescope](https://www.gradescope.com/courses/546137) (Due Aug 10th, 10:00 PM PST)":
   - date: 2023-08-09
     events:
-      "**Lecture 26**{: .label .label-lec} Review": 
+      "**Lecture 26**{: .label .label-lec} [Review](https://ph142-ucb.github.io/su23/src/wrap_up_su23.pdf)[{recording}](https://bcourses.berkeley.edu/courses/1525581/pages/wrap-up-and-review)": 
         "Ch. 21 & 22"
       "**Review**{: .label .label-review} [Week 6 Review](https://docs.google.com/presentation/d/1DqVqFRWRaquW0Z8c8LD-sg9Jtomyo8Bi)":
 
